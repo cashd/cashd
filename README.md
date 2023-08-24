@@ -1,6 +1,4 @@
-# Aug 23, 2023
-### Hey! My name is Cash
-
+### Hey! My name is Cash 💸
 
 I'm a software engineer, born and raised in Texas. I specialize in frontend development but have worn many hats 🤠 
 
