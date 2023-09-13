@@ -7,7 +7,7 @@ I have multiple years of software engineering experience ranging from large tech
 I code 99% of the time in TypeScript but love functional languages ❤️ 
 
 Here is my work history:
-- Senior Frontend Engineer at [Mirror](https://mirror.xyz/)
+- Frontend Engineer at [Mirror](https://mirror.xyz/)
 - Software Engineer at [Element Finance](https://delv.tech/) (now Delv)
 - Software Engineer at [Twitter](https://x.com/) (now X)
 
