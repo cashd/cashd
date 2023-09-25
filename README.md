@@ -11,4 +11,9 @@ Here is my work history:
 - Software Engineer at [Element Finance](https://delv.tech/) (now Delv)
 - Software Engineer at [Twitter](https://x.com/) (now X)
 
+Contractor history:
+- Sushiswap
+- Coordinape
+- KaramaHQ
+
 
